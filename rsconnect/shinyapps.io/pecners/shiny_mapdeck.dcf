@@ -1,0 +1,14 @@
+name: shiny_mapdeck
+title: shiny_mapdeck
+username:
+account: pecners
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8536610
+bundleId: 6943312
+url: https://spencerschien.shinyapps.io/shiny_mapdeck/
+when: 1678481631.62737
+lastSyncTime: 1678481631.62738
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: save_data.R
